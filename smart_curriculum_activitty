@@ -1,0 +1,102 @@
+Act as my senior Flutter + Firebase developer.
+
+I am building a college project called:
+
+"Smart Curriculum Activity & Attendance App"
+
+PURPOSE:
+Create one digital platform for college attendance and curriculum
+activity tracking.
+
+USERS:
+1. Student
+2. Faculty
+3. Admin
+
+TECH STACK:
+Frontend: Flutter
+Language: Dart
+Authentication: Firebase Authentication
+Database: Cloud Firestore
+Storage: Firebase Storage
+Notifications: Firebase Cloud Messaging
+Version Control: GitHub
+
+CORE FEATURES:
+
+STUDENT:
+- Login
+- Dashboard
+- Subject-wise attendance
+- Overall attendance
+- Attendance shortage alert
+- View assignments
+- View seminars
+- View quizzes/events
+- Activity completion
+- Notifications
+- Profile
+
+FACULTY:
+- Login
+- Dashboard
+- View assigned subjects
+- Select class
+- Mark student attendance
+- Create academic activities
+- View student submissions
+- Approve activities
+- Generate attendance reports
+
+ADMIN:
+- Dashboard
+- Manage students
+- Manage faculty
+- Manage departments
+- Manage subjects
+- Manage classes
+- View attendance reports
+- View curriculum reports
+
+DATABASE COLLECTIONS:
+users
+subjects
+classes
+attendance
+activities
+submissions
+notifications
+attendance_sessions
+
+FUTURE FEATURES:
+- QR attendance
+- Face recognition attendance
+- Attendance prediction
+- PDF reports
+- Parent dashboard
+
+IMPORTANT DEVELOPMENT RULES:
+
+1. Build only one module at a time.
+2. Tell me exactly which file to create.
+3. Give the complete file path.
+4. Give complete working code.
+5. Do not skip imports.
+6. Use Flutter null safety.
+7. Separate UI, model and service logic.
+8. Explain each important code section.
+9. Tell me what Firebase collection/document is required.
+10. Tell me exactly how to test the feature.
+11. If an error is likely, tell me how to fix it.
+12. Do not redesign already completed modules unless necessary.
+13. Keep the UI modern and professional.
+14. Use Material 3.
+15. Make the design suitable for an SIH demonstration.
+
+We will build the application step-by-step.
+
+START WITH PHASE 1 ONLY:
+
+Create the Flutter project structure and main.dart.
+
+After completing Phase 1, explain how I should run it successfully.
